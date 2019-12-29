@@ -11,3 +11,6 @@ https://www.w3school.com.cn/php/index.asp  这个是w3chool的网站
 我开始从这里入手，学习一些内容，这个网站当中操作性非常好
 另外一个网站，从入手了解，让我感觉非常有用
 http://www.matools.com/api 网站api的资源：http://www.apiref.com/php-zh/intro-whatcando.html
+接下来，记录一些自己的使用的网站：
+
+生命真是美好，让我看到了不一样。
